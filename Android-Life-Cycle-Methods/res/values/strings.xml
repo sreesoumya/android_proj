@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Life Cycle Methods</string>
+    <string name="action_settings">Settings</string>
+    <string name="reset_button">Reset</string>
+    <string name="onCreate_text">onCreate</string>
+    <string name="onRestart_text">onRestart</string>
+    <string name="onStart_text">onStart</string>
+    <string name="onResume_text">onResume</string>
+    <string name="onPause_text">onPause</string>
+    <string name="method_text">Method</string>
+    <string name="times_text">Times Called</string>
+
+</resources>
