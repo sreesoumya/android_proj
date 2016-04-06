@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">UI Sampler</string>
+    <string name="action_settings">Settings</string>
+  
+    <string-array name="array_activity">
+    <item>Keyboard Activity</item>
+    <item>Web Activity</item>
+    <item>List Activity</item>
+     </string-array>
+<string name="spinner">Activity Selection</string>
+<string name="enter_button">Enter</string>
+<string name="hide_button">Hide</string>
+<string name="back_button">Back</string>
+<string name="go_button">GO</string>
+<string name="hint">Enter text to pass to Keyboard activity</string>
+<string name="text_url">Enter a valid web address</string>
+<string name="warning_toast">Enter a valid web address</string>
+<string name="menu_web">Web</string>
+<string name="menu_keyboard">Keyboard</string>
+<string name="menu_list">List</string>
+<string name="menu_back">Back</string>
+<string-array name ="android_versions">
+    <item>"1.5 Cupcake"</item>
+    <item>"1.6 Donut"</item>
+    <item>"2.0 Eclair"</item>
+    <item>"2.1 Eclair"</item>
+    <item>"2.2 Froyo"</item>
+    <item>"2.3 Gingerbread"</item>
+    <item>"3 Honeycomb"</item>
+    <item>"4.0 Ice Cream Sandwich"</item>
+    <item>"4.1 Jelly Bean"</item>
+    <item>"4.2 Jelly Bean"</item>
+    <item>"4.3 Jelly Bean"</item>
+    <item>"4.4 KitKat"</item>
+</string-array>
+
+
+
+</resources>
