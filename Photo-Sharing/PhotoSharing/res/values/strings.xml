@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Photo Sharing</string>
+    <string name="action_settings">Settings</string>
+    <string name="close_button">Close</string>
+    <string name="refresh_button">Refresh</string>
+    <string name="age_text">Age</string>
+    <string name="upload_button">Upload</string>
+    <string name="uploadServer_button">Confirm Upload</string>
+	<string name="Done_Upload">Finish</string>
+	<string name="Imageview_upload">Image view for upload></string>
+</resources>

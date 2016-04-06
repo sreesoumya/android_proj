@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+      <item
+        android:id="@+id/DoneUpload"
+        android:showAsAction="always|withText"       
+        android:title="@string/Done_Upload"/>
+    <item
+        android:id="@+id/uploadServer"
+        android:showAsAction="always|withText"       
+        android:title="@string/uploadServer_button"/>
+    
+
+</menu>
